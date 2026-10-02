@@ -58,3 +58,11 @@ Leadership needs to know which products, regions, and customer segments are actu
 - How to separate "is this product selling well" (revenue) from "is this product actually making money" (profit/margin) and why relying on revenue alone can hide a real problem.
 - How to test a hypothesis with data rather than assume it: my first guess (Consumer buys more Furniture) turned out to be wrong, and the data pointed me toward a more precise explanation instead.
 - The importance of flagging when a pattern only partially holds, rather than overclaiming a clean explanation.
+
+**1. Category Profitability** — Furniture generates comparable sales to Technology and Office Supplies, but converts almost none of it to profit (2.49% margin vs. ~17% for the other two), and carries the highest average discount.
+
+![Profit margin by category](images/category_margin.png)
+
+**2. Furniture Sub-Category Breakdown** — The category-level number hides a split: **Tables (−8.56% margin) and Bookcases (−3.02% margin) are sold at a loss**, while Chairs (8.10%) and Furnishings (14.24%) are healthy. Discount level tracks closely with margin across all four sub-categories.
+
+![Furniture profit margin by sub-category](images/furniture_subcategory_margin.png)
